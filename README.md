@@ -1,6 +1,6 @@
 # Time-series-Prediction-LSTM-
 ## DATA :- Federal Reserve Economic Data(FRED) 'Alocoholic beverages sales data'
-## It contains the alcoholic sales in millions every month from 1992-January
+## It contains the alcoholic sales in millions(USD) every month from 1992-January
 ![](https://github.com/Yashwanthkumar11/Time-series-Prediction-LSTM-/blob/master/.ipynb_checkpoints/dataset.png)
 
 ## Plot of the data
