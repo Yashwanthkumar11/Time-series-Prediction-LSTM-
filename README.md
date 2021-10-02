@@ -16,11 +16,13 @@ Such a tuple of (inputs,labels) are used where these inputs are the sequences of
 Inorder to check the performance of the model, the data was intially split into training set and test set where the model training was performed on training set and predicted for test set range of values.
 
 The picture below indicates how well the model has learnt the trend where the orange curve is the model predictions and blue curve is the actual data.
+
 ![](https://github.com/Yashwanthkumar11/Time-series-Prediction-LSTM-/blob/master/.ipynb_checkpoints/plot1.png)
 
 ## Forecasting 
 
 Forecasting or predicting the future values is also done in the similar way as above but here the model was trained on the entire dataset i.e without train-test split.
+
 ![](https://github.com/Yashwanthkumar11/Time-series-Prediction-LSTM-/blob/master/.ipynb_checkpoints/plot2.png)
 
 For clear understanding, please refer to the python notebook file in this repo.
